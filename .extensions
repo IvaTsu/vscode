@@ -1,0 +1,39 @@
+# to install VSCode extension:
+# code --install-extension extension_name
+
+# List of extensions:
+
+abusaidm.html-snippets
+alefragnani.project-manager
+angryobject.react-pure-to-class-vscode
+bierner.markdown-preview-github-styles
+burkeholland.react-food-truck
+burkeholland.simple-react-snippets
+capaj.vscode-exports-autocomplete
+christian-kohler.npm-intellisense
+CoenraadS.bracket-pair-colorizer
+davidhouchin.whitespace-plus
+dbaeumer.vscode-eslint
+deerawan.vscode-whitespacer
+EditorConfig.EditorConfig
+esbenp.prettier-vscode
+glen-84.sass-lint
+gottfired.css2react
+humao.rest-client
+ionutvmi.path-autocomplete
+jpoissonnier.vscode-styled-components
+karigari.chat
+mgmcdermott.vscode-language-babel
+mikestead.dotenv
+mquandalle.graphql
+ms-vsliveshare.vsliveshare
+PeterJausovec.vscode-docker
+Prisma.vscode-graphql
+punkave.apostrophecms-vs-snippets
+robertohuertasm.vscode-icons
+robinbentley.sass-indented
+ronnidc.nunjucks
+stpn.vscode-graphql
+timothymclane.react-redux-es6-snippets
+WakaTime.vscode-wakatime
+xabikos.JavaScriptSnippets
