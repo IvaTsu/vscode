@@ -1,10 +1,10 @@
 ![Logo of the project](https://picsum.photos/900/300)
 
-# The Project Name
+# VSCode
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE) [![Product release](https://img.shields.io/badge/release-0.0.1-orange.svg?style=flat-square)](CHANGELOG.md)
 
-> Several words about the project.
+> This repo contains settings and list of extensions I use with VSCode.
 
 ## Prerequisites
 
