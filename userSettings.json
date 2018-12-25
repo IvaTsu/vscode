@@ -5,11 +5,14 @@
   "editor.insertSpaces": false,
   "editor.detectIndentation": false,
   "editor.autoIndent": false,
+  // enable save on 'cmd' + 's'
   "editor.formatOnSave": true,
   "editor.renderWhitespace": "all",
   "terminal.integrated.fontFamily": "Inconsolata for Powerline",
   "window.zoomLevel": 0,
+  // integrate Prettier with ESlint
   "prettier.eslintIntegration": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
   "workbench.iconTheme": "vscode-icons"
 }
+
